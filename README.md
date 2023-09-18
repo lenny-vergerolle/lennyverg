@@ -6,4 +6,4 @@ Installation d'une VM via Oracle:
 
 Réalisation d'un Dual-boot : 
 
-Configurer WSL2
+Configurer WSL2:

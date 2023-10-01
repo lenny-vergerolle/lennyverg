@@ -3,6 +3,8 @@
 
 
 Installation d'une VM via Oracle: 
+J'ai décidé d'installer une VM avec Oracle car j'étais curieux de voir comment cela fonctionnait. Je voulais comprendre ce qu'était une VM mais surtout comment en installer une. 
+Processus d'installation :
 Tout d'abord, il faut aller sur Oracle VM VirtualBox
 -Installer la VM adapté à notre OS 
 -Installer un ISO (XUBUNTU par exmple)
@@ -16,7 +18,8 @@ Tout d'abord, il faut aller sur Oracle VM VirtualBox
 
 
 Configurer WSL2:
-
+J'ai également installer WSL2(Windows Sub Linux) afin de me faciliter l'accès à un environnement Linux. Avec une simple commande, je peux désormais accèder à l'univers de Linux. 
+Processus d'installation:
 -Tout d’abord : wsl --install  
 -Installer un noyau Linux via le site Microsoft 
 -Se créer un compte UNIX avec un mot de passe 

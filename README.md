@@ -1,6 +1,6 @@
                                                                                   SAE_1.03
 
-DFdffd
+Je modifie 
 
 Installation d'une VM via Oracle: 
 J'ai décidé d'installer une VM avec Oracle car j'étais curieux de voir comment cela fonctionnait. Je voulais comprendre ce qu'était une VM mais surtout comment en installer une. 

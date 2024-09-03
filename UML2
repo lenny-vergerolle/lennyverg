@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="JBL0R7Qt_ZBt8eEMU6Hn-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="200" y="155" width="450" height="450" as="geometry" />
+          <mxGeometry x="180" y="134" width="450" height="450" as="geometry" />
         </mxCell>
         <mxCell id="JBL0R7Qt_ZBt8eEMU6Hn-2" value="Invité" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="115" y="460" width="40" height="70" as="geometry" />
@@ -14,10 +14,31 @@
           <mxGeometry x="115" y="190" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JBL0R7Qt_ZBt8eEMU6Hn-4" value="Visiteur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="330" width="30" height="60" as="geometry" />
+          <mxGeometry x="115" y="350" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="JBL0R7Qt_ZBt8eEMU6Hn-7" value="Se connecter/Se déconnecter" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="200" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JBL0R7Qt_ZBt8eEMU6Hn-8" value="Modifier la langue" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="350" width="66" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JBL0R7Qt_ZBt8eEMU6Hn-9" value="Utiliser le guide utilisateur " style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="377" y="420" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JBL0R7Qt_ZBt8eEMU6Hn-10" value="" style="endArrow=none;html=1;rounded=0;entryX=0.003;entryY=0.597;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="JBL0R7Qt_ZBt8eEMU6Hn-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="410" as="sourcePoint" />
+            <mxPoint x="330" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JBL0R7Qt_ZBt8eEMU6Hn-11" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="JBL0R7Qt_ZBt8eEMU6Hn-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="380" as="sourcePoint" />
+            <mxPoint x="330" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JBL0R7Qt_ZBt8eEMU6Hn-12" value="Evento" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="140" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
